@@ -894,7 +894,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 revpatch=sbvmm shikigva=80</string>
+				<string>keepsyms=1 revpatch=sbvmm shikigva=80</string>
 				<key>csr-active-config</key>
 				<data>
 				7w8AAA==
